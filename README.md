@@ -1,7 +1,7 @@
 # Running Locally
 
 To run locally, use prediction.py file. Open terminal and type:
-python prediction.py
+```python prediction.py```
 
 # Running code on Docker
 
